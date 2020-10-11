@@ -1,0 +1,116 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	background: url(BTS\ 14.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.logo{
+    width: 140px;
+    height: auto;
+    padding: 20px 100px;
+}
+.wrapper .centre{
+	position: absolute;
+	left: 50%;
+	top: 15%;
+	transform: translate(-50%, -50%);
+	font-family: 'Times New Roman', Times, serif;
+}
+.centre h1{
+	color:rgb(212,175,55);
+	font-size: 70px;
+	width: 900px;
+	font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+  .main {   
+    flex: 70%;
+    background-color:pink;
+    padding: 20px;
+    border:20px solid rgb(128,0,128);
+      text-transform: capitalize;
+      text-indent: 50px;----txt spc
+  }
+  ul {
+    background: #3399ff;
+    padding: 20px;
+  }
+  ul li {
+    background: #cce5ff;
+    padding: 5px;
+    margin-left: 5px;
+  }
+ 
+  ol.a {
+    list-style-type: disc;
+  }
+  ol.b {
+    list-style-type: disc;
+  }
+  ol.c {
+    list-style-type: disc;
+  }
+  ol.d {
+    list-style-type: disc;
+  }
+  ol.e {
+    list-style-type: disc;
+  }
+  ol.f {
+    list-style-type: disc;
+  }
+  ol.g {
+    list-style-type: disc;
+  }
+  ol.h {
+    list-style-type: disc;
+  }
+  ol.i {
+    list-style-type: disc;
+  }
+  ol.j {
+    list-style-type: disc;
+  }
+  ol.k {
+    list-style-type: disc;
+  }
+  ol.l {
+    list-style-type: disc;
+  }
+  ol.m {
+    list-style-type: disc;
+  }
+  ol.n {
+    list-style-type: disc;
+  }
+  ol.o {
+    list-style-type: disc;
+  }
+  h2{
+	color:indigo;
+	width: 900px;
+	font-weight:bold;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-style: italic;  
+}
+  h3{
+	color:magenta;
+	width: 900px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;      
+}
+  h4{
+	color:black;
+    width: 1200px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+button img{ 
+    float: centre;
+  } 
